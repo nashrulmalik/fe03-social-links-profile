@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [This GitHub](https://github.com/nashrulmalik/fe03-social-links-profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://nashrulmalik.github.io/fe03-social-links-profile/)
 
 ## My process
 
@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-Apply this globally will make your life easier
+Apply this CSS globally will make your life easier
 ```css
 * {
     margin: 0;
@@ -53,6 +53,6 @@ Apply this globally will make your life easier
 
 ## Author
 
-- Website - [Add your name here](https://nashrulmalik.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nashrulmalik)
-- Twitter - [@yourusername](https://www.twitter.com/nashrulmalik)
+- Website - [Nashrulmalik](https://nashrulmalik.com)
+- Frontend Mentor - [@nashrulmalik](https://www.frontendmentor.io/profile/nashrulmalik)
+- Twitter - [@nashrulmalik](https://www.twitter.com/nashrulmalik)
